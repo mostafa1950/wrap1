@@ -133,7 +133,7 @@
         },
         {
             "type": "wireguard",
-            "server": "188.114.96.238",
+            "server": "104.18.134.68",
             "server_port": 880,
             "local_address": [
                 "172.16.0.2\/32",
